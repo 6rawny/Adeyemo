@@ -20,7 +20,7 @@ I am a results-driven Data Analyst and Business Intelligence Analyst with expert
 When I'm not working with data, I enjoy playing game. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://adeyemo.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://6rawny.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
